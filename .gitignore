@@ -17,6 +17,9 @@ lerna-debug.log*
 .DS_Store
 Desktop.ini
 
+# n8n backup folder
+n8n/backup/
+
 # env
 .env
 .env.local
